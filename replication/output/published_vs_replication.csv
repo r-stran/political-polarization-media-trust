@@ -1,0 +1,7 @@
+"Model","Variable","Paper LogOR","Replication LogOR","Paper Wald","Replication Wald","Replication p-value"
+"Model_1","ideology",-0.13,-0.191,158.41,589.05,"<0.001"
+"Model_1","location",0.02,0.0225,2.76,9.9,"0.002"
+"Model_1","time",-0.04,-0.0351,884.25,1589.73,"<0.001"
+"Model_2","ideology:time",-0.006,-0.0033,57.75,31.83,"<0.001"
+"Model_3","location:time",0.002,0.0022,9.39,18.04,"<0.001"
+"Model_4","ideology:location:time",-0.001,7e-04,4.07,3.52,"0.061"
